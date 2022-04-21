@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "axios": "^0.26.1",
-    "json-sql-builder2": "^1.0.24"
+    "axios": "^0.26.1"
   }
 }
